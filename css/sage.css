@@ -1,0 +1,32 @@
+h3{
+    font-family: "Open Sans", Arial, sans-serif!important;
+    font-weight: 400!important;
+    color: #333333!important;
+}
+
+.bg-sage{
+    background-color: #002e5b;
+}
+
+#fh5co-services p {
+    color: #333333;
+   
+}
+
+.border{
+    color:#333333!important;
+}
+
+.nav-link{
+    color: #333333;
+}
+
+.nav-link:hover{
+    color: #002e5b;
+}
+
+.nav-pills .active{
+    background-color: #002e5b!important;
+    color: white!important;
+}
+

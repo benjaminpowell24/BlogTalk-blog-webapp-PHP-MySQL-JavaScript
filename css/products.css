@@ -1,0 +1,73 @@
+.bg-products{
+    background-color: #eeeae9;
+}
+
+.bg-products-1{
+    background-color: #1985ce;
+}
+
+.bg-products-2{
+background-color: teal;
+}
+
+.bg-products-3{
+ background-color: #2dad98;
+}
+
+.bg-products-4{
+ background-color: #04665b;
+}
+
+.product-btn a:link, .product-btn a:visited {
+    color: white;
+    display:inline-block;
+    text-align:center;
+    text-decoration:none;
+    padding:0.4rem 2rem;
+    border:0.15rem solid white;
+    background-color: #003349;
+}
+
+
+.product-btn a:hover{
+    color:white;
+    display:inline-block;
+    text-align:center;
+    text-decoration:none;
+    padding:0.4rem 2rem;
+    border:0.15rem solid white;
+    background-color: #003349;
+}
+
+.product-btn-2 a:link, .product-btn-2 a:visited {
+    color: white;
+    display:inline-block;
+    text-align:center;
+    text-decoration:none;
+    padding:0.5rem 2.5rem;
+    border:0.15rem solid whitesmoke;
+    background-color: #002e5b;
+}
+
+
+.product-btn-2 a:hover{
+    color:#eeeae9;
+    display:inline-block;
+    text-align:center;
+    text-decoration:none;
+    padding:0.5rem 2.5rem;
+    border:0.15rem solid whitesmoke;
+    background-color: #002e5b;
+}
+
+#products-banner h3{
+    line-height:1.1em;
+	color: #002e5b;
+	margin-bottom: 20px;
+	font-weight: 600;
+}
+
+.card h4{
+    /* color: #0d3a0b; */
+    color: #000000;
+}

@@ -1,0 +1,28 @@
+.about__font{
+    line-height: 2;
+    font-size: 17px;
+    font-weight: 500;
+}
+
+#fh5co-team p {
+    line-height: 2;
+    font-size: 17px;
+    font-weight: 500;
+    color: #333333;
+}
+
+
+
+h4{
+    color: #373842;
+    line-height: 1em;
+    font-weight: 550;
+    font-size: 1.4rem;
+    margin-bottom: 1.5rem;
+    letter-spacing: .2em;
+}
+
+.border__padding{
+    padding-top: 1px;
+    margin-bottom: 1rem;
+}

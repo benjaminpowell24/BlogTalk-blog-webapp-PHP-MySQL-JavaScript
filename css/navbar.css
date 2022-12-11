@@ -1,0 +1,34 @@
+/*.nav__navbar{
+    background: transparent!important;
+    transition: 0.75s ease;
+}
+
+.nav__navbar.scrolled{
+    background: #0005!important;
+    
+}
+
+.nav__navbar.scrolled li div{
+    background: #0005!important;
+}
+
+.nav__navbar.scrolled a{
+    color: white!important;
+}*/
+
+/* .nav__navbar{
+    background: #0000!important;
+}
+
+.nav__navbar li div{
+    background: #0005!important;
+}
+
+.nav__navbar a{
+    color: white!important;
+} */
+
+.navbar__logo{
+    width: 4vw;
+    min-width: 2.5rem!important;
+}
